@@ -69,35 +69,25 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2020-06-09T20:00:00+0800",
-            "appName": "IPA下载器",
-            "appVersion": "1.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/IPA%E4%B8%8B%E8%BD%BD%E5%99%A8.png",
-            "appPlist": "https://liujunjie680.lanzous.com/iZFRFdi2tif",
-            "appDescription": "IPA文件提取神器"
-        },
-       
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 5,
             "appUpdateTime": "2020-06-09T19:00:00+0800",
-            "appName": "网易邮箱大师Pro",
-            "appVersion": "7.0.1",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88Pro.png",
-            "appPlist": "https://www.lanzous.com/ib7yuhe",
-            "appDescription": "商店收费软件，邮箱管理"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 5,
-            "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "X.cat",
             "appVersion": "1.0.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/X.cat.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/iEdhGdi3wja",
             "appDescription": "图片视频抓取神器"
         },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "网易邮箱大师Pro",
+            "appVersion": "7.0.1",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88Pro.png",
+            "appPlist": "https://www.lanzous.com/ib7yuhe",
+            "appDescription": "商店收费软件，邮箱管理"
+        }
+
         
 
     ]
