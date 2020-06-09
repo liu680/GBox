@@ -24,6 +24,17 @@
         },
 
         {
+            "appType": "LINK",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-06-10T23:00:00+0800",
+            "appName": "ACROSSLINE HOSTING边际加速",
+            "appVersion": "1.0",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/ACROSSLINE%20HOSTING%E8%BE%B9%E9%99%85%E5%8A%A0%E9%80%9F.jpg",
+            "appLink": "https://www.acrosslinehosting.com/",
+            "appDescription": "新加坡边际加速主机的产品，服务，开发人员和企业可以在云服务中更轻松，更经济高效地构建，部署和扩展应用程序。"
+        },
+
+        {
             "appType": "SHAREING",
             "appCateIndex": 1,
             "appUpdateTime": "2020-06-09T24:00:00+0800",
