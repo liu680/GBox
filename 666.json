@@ -1,0 +1,113 @@
+{
+    "version": "1.0",
+    "sourceName": "清风不识字GBOX源",
+    "sourceAuthor": "清风不识字",
+    "sourceLinkTitle": "联系作者",
+    "sourceLinkUrl": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=1148330217&card_type=person&source=sharecard",
+    "sourceImage": "https://ae01.alicdn.com/kf/U65b93485a4b44a0b8bd5d9257e40c18bq.jpg",
+    "sourceUpdateTime": "2020-05-20T13:13:00+0800",
+    "sourceDescription": "随缘上传，免费分享，从今天开始好好整理一下~",
+    "appCategories": [
+        "常用",
+        "视频",
+        "福利"
+    ],
+    "appRepositories": [
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T18:10:00+0800",
+            "appName": "支付宝B",
+            "appVersion": "0.3.2",
+            "appImage": "https://ae01.alicdn.com/kf/Uba3da054dff044068afcc6787a3e57f93.png",
+            "appPlist": "https://www.lanzous.com/i8waitc",
+            "appDescription": "蚂蚁森林全自动偷能量，自动揍喂小鸡，自动使用加速卡，修改步数等"
+        },
+
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T17:01:00+0800",
+            "appName": "网易云音乐pj版",
+            "appVersion": "5.7.2",
+            "appImage": "https://ae01.alicdn.com/kf/U78a24c056fbf4ed59b31f1ec2470d6e3f.png",
+            "appPlist": "https://www.lanzous.com/i8w96yj",
+            "appDescription": "解锁会员权限，可听高品质音乐"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T19:38:00+0800",
+            "appName": "酷我音乐",
+            "appVersion": "9.3.9",
+            "appImage": "https://ae01.alicdn.com/kf/U675602142b2f49c89b3a2351903e1e56y.jpg",
+            "appPlist": "https://www.lanzous.com/i8wdagj",
+            "appDescription": "解锁会员特权"
+        },
+
+        
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T13:34:00+0800",
+            "appName": "我爱网",
+            "appVersion": "1.9.5",
+            "appImage": "https://ae01.alicdn.com/kf/Ubdec711fd47e41bea66d241fe8e8b981Y.jpg",
+            "appPlist": "https://www.lanzous.com/i8w4mlc",
+            "appDescription": "自签app"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T13:28:00+0800",
+            "appName": "笔趣阁",
+            "appVersion": "1.2.0",
+            "appImage": "https://ae01.alicdn.com/kf/U2af470fa212b48c79e917092be37c223M.jpg",
+            "appPlist": "https://www.lanzous.com/i8w4jpi",
+            "appDescription": "完美去广告"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T19:25:00+0800",
+            "appName": "石头阅读",
+            "appVersion": "7.2.0",
+            "appImage": "https://ae01.alicdn.com/kf/Uf351f4eb0e2646799bf4c8fc5c7fe546m.jpg",
+            "appPlist": "https://www.lanzous.com/i8wbr6j",
+            "appDescription": "去除所有广告"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T13:24:00+0800",
+            "appName": "youtube++",
+            "appVersion": "13.2.9",
+            "appImage": "https://ae01.alicdn.com/kf/U0e2d35de04004171b3d22a4249273f160.png",
+            "appPlist": "https://www.lanzous.com/i8w4iif",
+            "appDescription": "支持1080P下载视频，后台播放等等"
+        },
+        
+
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-01-28T19:30:00+0800",
+            "appName": "人人视频",
+            "appVersion": "4.3.5",
+            "appImage": "https://ae01.alicdn.com/kf/U9a5a4b93c01c4f8ca0ce1a7ac778e1d0z.jpg",
+            "appPlist": "https://www.lanzous.com/i8wbsyd",
+            "appDescription": "解锁vip，视频原画"
+        }
+
+
+        
+    ]
+}
