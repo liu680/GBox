@@ -17,8 +17,8 @@
             "appUpdateTime": "2020-04-26T21:50:00+0800",
             "appName": "签名测试",
             "appVersion": "1.0",
-            "appImage": "https://s1.ax1x.com/2020/04/26/J2LKW4.png",
-            "appPackage": "http://gbox.run/Public/apps/Test.ipa",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%AD%BE%E5%90%8D%E6%B5%8B%E8%AF%95.png",
+            "appPackage": "https://liujunjie680.lanzous.com/iDTHQdi1olc",
             "appDescription": "证书测试专用"
         },
 
@@ -28,7 +28,7 @@
             "appUpdateTime": "2020-04-19T17:00:00+0800",
             "appName": "unC0ver",
             "appVersion": "5.0.1",
-            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%B6%8A%E7%8B%B1%E5%B7%A5%E5%85%B7.png",
             "appPlist": "https://liujunjie680.lanzous.com/i35Mxdhwxhc",
             "appDescription": "unC0ver5.0.1越狱工具"
         },
@@ -40,7 +40,7 @@
             "appName": "石头阅读",
             "appVersion": "7.2.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%9F%B3%E5%A4%B4%E9%98%85%E8%AF%BB.jpg",
-            "appPlist": "https://www.lanzous.com/i8wbr6j",
+            "appPlist": "https://liujunjie680.lanzous.com/ipszrdi1skf",
             "appDescription": "去除所有广告"
         }
         
