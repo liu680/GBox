@@ -6,10 +6,9 @@
     "sourceLinkUrl": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=2799568849&card_type=person&source=sharecard",
     "sourceImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/tubiao.jpg",
     "sourceUpdateTime": "2020-05-25T11:00:00+0800",
-    "sourceDescription": "GBox官方软件源",
+    "sourceDescription": "GBox私人软件源",
     "appCategories": [
-        "工具",
-        "模拟器"
+        "工具"
     ],
     "appRepositories": [
         {
@@ -20,7 +19,7 @@
             "appVersion": "1.0",
             "appImage": "https://s1.ax1x.com/2020/04/26/J2LKW4.png",
             "appPackage": "http://gbox.run/Public/apps/Test.ipa",
-            "appDescription": "在GBox证书管理页面选择其中一本证书，先签名此包再安装，如果能正常打开，则证明签名流程和证书有效"
+            "appDescription": "证书测试专用"
         },
 
         {
@@ -32,6 +31,17 @@
             "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
             "appPlist": "https://liujunjie680.lanzous.com/i35Mxdhwxhc",
             "appDescription": "unC0ver5.0.1越狱工具"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T19:25:00+0800",
+            "appName": "石头阅读",
+            "appVersion": "7.2.0",
+            "appImage": "https://ae01.alicdn.com/kf/Uf351f4eb0e2646799bf4c8fc5c7fe546m.jpg",
+            "appPlist": "https://www.lanzous.com/i8wbr6j",
+            "appDescription": "去除所有广告"
         }
         
 
