@@ -1,0 +1,149 @@
+{
+    "version": "1.0",
+    "sourceName": "GBox官方软件源",
+    "sourceAuthor": "GBox Official",
+    "sourceLinkTitle": "主页",
+    "sourceLinkUrl": "http://gbox.run",
+    "sourceImage": "http://gbox.run/Public/images/source.png",
+    "sourceUpdateTime": "2020-05-25T11:00:00+0800",
+    "sourceDescription": "GBox官方软件源",
+    "appCategories": [
+        "工具",
+        "模拟器"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-04-19T17:00:00+0800",
+            "appName": "GBox",
+            "appVersion": "2.7",
+            "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
+            "appPlist": "https://www.lanzous.com/iblg5eh",
+            "appDescription": "4月19日最新版(仅限VIP，‼️TF兑换码的用户请勿下载‼️)，签名此App后，点击安装，闪退即代表升级成功，更新内容:\n1. 优化签名模块，兼容更多文件 \n2. 优化细节，修复Bugs"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-05-24T17:00:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.0.0",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzous.com/icyh8cd",
+            "appDescription": "🎉(已去验证，不提示被篡改‼️)全系列支持iOS11～iOS13.5系统越狱，需用有效证书签名后安装，如果越狱失败，请多尝试几次或者重启手机后尝试"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-05-25T11:00:00+0800",
+            "appName": "unC0ver(25号最新版)",
+            "appVersion": "5.0.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzous.com/icz4pcd",
+            "appDescription": "(官方原版，需签名‼️)全系列支持iOS11～iOS13.5系统越狱，如果越狱失败，请多尝试几次或者重启手机后尝试"
+        },
+        
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-05-24T09:15:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.0.0",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzous.com/icy17ze",
+            "appDescription": "带企业签，可直接安装，（‼️网上找来的，未去验证，部分人不可以使用）全系列支持iOS11～iOS13.5系统越狱，iOS 13.3.1或以上机型部分不支持企业签会闪退，在证书管理购买超级签即可"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-04-26T21:50:00+0800",
+            "appName": "签名测试",
+            "appVersion": "1.0",
+            "appImage": "https://s1.ax1x.com/2020/04/26/J2LKW4.png",
+            "appPackage": "http://gbox.run/Public/apps/Test.ipa",
+            "appDescription": "在GBox证书管理页面选择其中一本证书，先签名此包再安装，如果能正常打开，则证明签名流程和证书有效"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SHAREING",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-26T09:30:00+0800",
+            "appName": "Price Tag",
+            "appVersion": "2.3.1",
+            "appImage": "https://bbsimg.joyslink.com/2018/04/19/14443676_246x0w.jpg",
+            "appPlist": "https://gbox.lanzous.com/i89vukd",
+            "appDescription": "iOS13不支持, 无须签名直接安装，然后在App Store登录此账号即可：\n(切勿在系统设置登录，否则有可能被锁机)\nshare1313@163.com\nLaoapp922"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-30T10:30:00+0800",
+            "appName": "Filza",
+            "appVersion": "3.6",
+            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Apps/filza/filza.png",
+            "appPlist": "https://gbox.lanzous.com/i8cic2h",
+            "appDescription": "强大的文件管理器，免越狱访问系统全路径，支持iOS11 ~ iOS12，部分机型打开闪退"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-11T23:00:00+0800",
+            "appName": "小鸡模拟器",
+            "appVersion": "1.5.7",
+            "appImage": "http://i.gongxiao8.com/uploads/i_5_2062777833x249591032_26.jpg",
+            "appPackage": "http://dl.xiaoji001.com/download/ios/NNxiaoji_1.5.7_ios11_tb31_addr2.ipa",
+            "appDescription": "需要iOS 11或以上系统"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-12T10:00:00+0800",
+            "appName": "PPSSPP",
+            "appVersion": "1.6.3",
+            "appImage": "https://s1.ax1x.com/2020/05/18/YWwBNj.png",
+            "appPlist":"https://gbox.lanzous.com/i7ys8da",
+            "appDescription": "PSP模拟器"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-04-20T18:00:00+0800",
+            "appName": "iNDS",
+            "appVersion": "1.10.7",
+            "appImage": "https://s1.ax1x.com/2020/04/20/JljV9x.png",
+            "appPlist":"https://gbox.lanzous.com/ibnbglc",
+            "appDescription": "NDS模拟器"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-12T10:00:00+0800",
+            "appName": "Delta",
+            "appVersion": "1.1.1",
+            "appImage": "https://s1.ax1x.com/2020/05/18/YWwT81.png",
+            "appPlist":"https://gbox.lanzous.com/i7yrzad",
+            "appDescription": "支持GBA, GBC, N64, SNES, NES, Sega等模拟器"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-02-22T16:10:00+0800",
+            "appName": "吉里吉里",
+            "appVersion": "1.2.6",
+            "appImage": "https://s2.ax1x.com/2020/02/22/3MLXVI.png",
+            "appPlist": "https://gbox.lanzous.com/i9ksypg",
+            "appDescription": "吉里吉里(KrKr)模拟器"
+        }
+    ]
+}
