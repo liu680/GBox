@@ -12,7 +12,7 @@
     ],
     "appRepositories": [
         {
-            "appType": "SELF_SIGN",
+            "appType": "SHAREING",
             "appCateIndex": 0,
             "appUpdateTime": "2020-06-09T24:00:00+0800",
             "appName": "爱思助手",
@@ -86,6 +86,17 @@
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88Pro.png",
             "appPlist": "https://www.lanzous.com/ib7yuhe",
             "appDescription": "商店收费软件，邮箱管理"
+        },
+
+        {
+            "appType": "LINK",
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-27T9:30:00+0800",
+            "appName": "GBox官网",
+            "appVersion": "1.0",
+            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/icon512.png",
+            "appLink": "https://gbox.run",
+            "appDescription": "网页连接测试"
         }
 
     ]
