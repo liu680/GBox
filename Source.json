@@ -14,7 +14,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2020-06-09T01:00:00+0800",
+            "appUpdateTime": "2020-06-09T24:00:00+0800",
             "appName": "爱思助手",
             "appVersion": "2.1.7",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B.png",
@@ -25,7 +25,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2020-06-09T02:50:00+0800",
+            "appUpdateTime": "2020-06-09T23:50:00+0800",
             "appName": "签名测试",
             "appVersion": "1.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%AD%BE%E5%90%8D%E6%B5%8B%E8%AF%95.png",
@@ -36,7 +36,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2020-06-09T03:00:00+0800",
+            "appUpdateTime": "2020-06-09T22:00:00+0800",
             "appName": "unC0ver",
             "appVersion": "5.0.1",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%B6%8A%E7%8B%B1%E5%B7%A5%E5%85%B7.png",
@@ -47,7 +47,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2020-06-09T04:25:00+0800",
+            "appUpdateTime": "2020-06-09T21:25:00+0800",
             "appName": "石头阅读",
             "appVersion": "7.2.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%9F%B3%E5%A4%B4%E9%98%85%E8%AF%BB.jpg",
@@ -58,7 +58,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2020-06-09T05:25:00+0800",
+            "appUpdateTime": "2020-06-09T20:25:00+0800",
             "appName": "IPA下载器",
             "appVersion": "1.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/IPA%E4%B8%8B%E8%BD%BD%E5%99%A8.png",
