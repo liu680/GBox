@@ -49,7 +49,7 @@
             "appCateIndex": 0,
             "appUpdateTime": "2020-06-09T21:00:00+0800",
             "appName": "石头阅读",
-            "appVersion": "7.2.0",
+            "appVersion": "11.1",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%9F%B3%E5%A4%B4%E9%98%85%E8%AF%BB.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ipszrdi1skf",
             "appDescription": "去除所有广告"
@@ -71,7 +71,7 @@
             "appCateIndex": 0,
             "appUpdateTime": "2020-06-09T19:00:00+0800",
             "appName": "X.cat",
-            "appVersion": "1.0.0",
+            "appVersion": "12.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/X.cat.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/iEdhGdi3wja",
             "appDescription": "图片视频抓取神器"
@@ -91,12 +91,12 @@
         {
             "appType": "LINK",
             "appCateIndex": 1,
-            "appUpdateTime": "2019-12-27T9:30:00+0800",
-            "appName": "GBox官网",
-            "appVersion": "1.0",
-            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/icon512.png",
-            "appLink": "https://gbox.run",
-            "appDescription": "网页连接测试"
+            "appUpdateTime": "2020-06-09T17:00:00+0800",
+            "appName": "艾克云",
+            "appVersion": "1.3.1",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%89%BE%E5%85%8B%E4%BA%91.jpg",
+            "appLink": "https://www.v2aky.com/",
+            "appDescription": "优质网络解决方案服务商"
         }
 
     ]
