@@ -35,6 +35,17 @@
         },
 
         {
+            "appType": "LINK",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-06-10T22:00:00+0800",
+            "appName": "夏时VPN",
+            "appVersion": "4.1",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E5%A4%8F%E6%97%B6VPN.jpg",
+            "appLink": "https://apps.apple.com/us/app/vpn-%E5%A4%8F%E6%97%B6vpn/id1455231677",
+            "appDescription": "优质网络解决方案服务商‼️"
+        },
+
+        {
             "appType": "SHAREING",
             "appCateIndex": 1,
             "appUpdateTime": "2020-06-09T24:00:00+0800",
