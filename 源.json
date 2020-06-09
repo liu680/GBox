@@ -1,9 +1,9 @@
 {
     "version": "1.0",
-    "sourceName": "GBox官方软件源",
-    "sourceAuthor": "GBox Official",
-    "sourceLinkTitle": "主页",
-    "sourceLinkUrl": "http://gbox.run",
+    "sourceName": "GBox私人源",
+    "sourceAuthor": "liujunjie680",
+    "sourceLinkTitle": "联系作者",
+    "sourceLinkUrl": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=2799568849&card_type=person&source=sharecard",
     "sourceImage": "http://gbox.run/Public/images/source.png",
     "sourceUpdateTime": "2020-05-25T11:00:00+0800",
     "sourceDescription": "GBox官方软件源",
