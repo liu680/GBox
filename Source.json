@@ -14,6 +14,17 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
+            "appUpdateTime": "2020-04-19T17:00:00+0800",
+            "appName": "爱思助手",
+            "appVersion": "2.1.7",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B.png",
+            "appPlist": "https://liujunjie680.lanzous.com/ilxr5di26wb",
+            "appDescription": "(无须签名直接安装)免 AppIe ID 高速一键下载应用"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
             "appUpdateTime": "2020-04-26T21:50:00+0800",
             "appName": "签名测试",
             "appVersion": "1.0",
@@ -36,23 +47,23 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2020-04-19T17:00:00+0800",
-            "appName": "爱思助手",
-            "appVersion": "2.1.7",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B.png",
-            "appPlist": "https://liujunjie680.lanzous.com/ilxr5di26wb",
-            "appDescription": "(无须签名直接安装)免 AppIe ID 高速一键下载应用"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
             "appUpdateTime": "2020-01-28T19:25:00+0800",
             "appName": "石头阅读",
             "appVersion": "7.2.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%9F%B3%E5%A4%B4%E9%98%85%E8%AF%BB.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ipszrdi1skf",
             "appDescription": "去除所有广告"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-01-28T19:25:00+0800",
+            "appName": "IPA下载器",
+            "appVersion": "1.0",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/IPA%E4%B8%8B%E8%BD%BD%E5%99%A8.png",
+            "appPlist": "https://liujunjie680.lanzous.com/iZFRFdi2tif",
+            "appDescription": "IPA文件提取神器"
         }
         
 
