@@ -9,6 +9,7 @@
     "sourceDescription": "GBox私人软件源",
     "appCategories": [
         "机场",
+        "商店",
         "工具",
         "娱乐"
     ],
@@ -59,7 +60,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
             "appUpdateTime": "2020-06-09T23:50:00+0800",
             "appName": "签名测试",
             "appVersion": "1.0",
@@ -70,7 +71,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
             "appUpdateTime": "2020-06-09T22:00:00+0800",
             "appName": "unC0ver",
             "appVersion": "5.2.0",
@@ -82,17 +83,6 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2020-06-09T17:00:00+0800",
-            "appName": "石头阅读",
-            "appVersion": "11.1",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%9F%B3%E5%A4%B4%E9%98%85%E8%AF%BB.jpg",
-            "appPlist": "https://liujunjie680.lanzous.com/ipszrdi1skf",
-            "appDescription": "去除所有广告"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
             "appUpdateTime": "2020-06-09T20:00:00+0800",
             "appName": "IPA下载器",
             "appVersion": "1.0",
@@ -103,7 +93,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
             "appUpdateTime": "2020-06-09T19:00:00+0800",
             "appName": "X.cat",
             "appVersion": "12.0",
@@ -114,7 +104,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1, 
+            "appCateIndex": 2, 
             "appUpdateTime": "2020-06-09T18:30:00+0800",
             "appName": "格式工厂",
             "appVersion": "1.5",
@@ -125,7 +115,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1, 
+            "appCateIndex": 2, 
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "网易邮箱大师Pro",
             "appVersion": "7.0.1",
@@ -136,7 +126,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 2, 
+            "appCateIndex": 3, 
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "QQ音乐",
             "appVersion": "9.9.5",
@@ -147,7 +137,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 2, 
+            "appCateIndex": 3, 
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "网易云音乐",
             "appVersion": "5.7.2",
@@ -158,15 +148,25 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 2, 
+            "appCateIndex": 3, 
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "Youtube++",
             "appVersion": "12.44.16",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/Youtube++.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ilfYwdig8mh",
             "appDescription": "去除广告，1080P视频下载"
-        }
+        },
 
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2020-06-09T17:00:00+0800",
+            "appName": "石头阅读",
+            "appVersion": "11.1",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%9F%B3%E5%A4%B4%E9%98%85%E8%AF%BB.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/ipszrdi1skf",
+            "appDescription": "去除所有广告"
+        }
 
     ]
 }
