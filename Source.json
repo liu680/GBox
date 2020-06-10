@@ -115,6 +115,17 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1, 
+            "appUpdateTime": "2020-06-09T18:30:00+0800",
+            "appName": "格式工厂",
+            "appVersion": "1.5",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%8E%82.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/iUYvPdig95g",
+            "appDescription": "破解专业版全功能"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1, 
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "网易邮箱大师Pro",
             "appVersion": "7.0.1",
@@ -132,7 +143,30 @@
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/QQ%E9%9F%B3%E4%B9%90.jpg",
             "appPlist": "https://uc.iosuc.com/music/qqyy.ipa",
             "appDescription": "QQ音乐破解版，无损解锁全功能"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "网易云音乐",
+            "appVersion": "5.7.2",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/iY6bldiglle",
+            "appDescription": "网易云音乐破解版，解锁黑胶会员音质等"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "Youtube++",
+            "appVersion": "12.44.16",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/Youtube++.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/ilfYwdig8mh",
+            "appDescription": "去除广告，1080P视频下载"
         }
+
 
     ]
 }
