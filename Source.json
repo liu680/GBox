@@ -141,7 +141,7 @@
             "appName": "QQ音乐",
             "appVersion": "9.9.5",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/QQ%E9%9F%B3%E4%B9%90.jpg",
-            "appPlist": "https://uc.iosuc.com/music/qqyy.ipa",
+            "appPackage": "https://uc.iosuc.com/music/qqyy.ipa",
             "appDescription": "QQ音乐破解版，无损解锁全功能"
         },
 
