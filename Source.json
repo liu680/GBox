@@ -76,7 +76,7 @@
             "appVersion": "5.2.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%B6%8A%E7%8B%B1%E5%B7%A5%E5%85%B7.png",
             "appPlist": "https://liujunjie680.lanzous.com/ihjoIdimzkd",
-            "appDescription": "unC0ver5.2.0越狱工具"
+            "appDescription": "-(启用iOS 13.5.5~b1支持)\n-修复禁用自动更新时的逻辑错误\n-更新绑定的Cydia以修复启用硬件键盘的iOS 13.5上的崩溃"
         },
 
         {
