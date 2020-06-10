@@ -104,23 +104,23 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2020-06-09T20:00:00+0800",
-            "appName": "IPA下载器",
-            "appVersion": "1.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/IPA%E4%B8%8B%E8%BD%BD%E5%99%A8.png",
-            "appPlist": "https://liujunjie680.lanzous.com/iZFRFdi2tif",
-            "appDescription": "IPA文件提取神器"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
             "appUpdateTime": "2020-06-09T19:00:00+0800",
             "appName": "X.cat",
             "appVersion": "12.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/X.cat.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/iEdhGdi3wja",
             "appDescription": "图片视频抓取神器"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2020-06-09T20:00:00+0800",
+            "appName": "IPA下载器",
+            "appVersion": "1.0",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/IPA%E4%B8%8B%E8%BD%BD%E5%99%A8.png",
+            "appPlist": "https://liujunjie680.lanzous.com/iZFRFdi2tif",
+            "appDescription": "IPA文件提取神器"
         },
 
         {
