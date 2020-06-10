@@ -187,7 +187,7 @@
             "appVersion": "7.6.17",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E4%BC%98%E9%85%B7.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/imljadj0wwb",
-            "appDescription": "去除广告可共存，1080P视频下载"
+            "appDescription": "去除广告,可共存，1080P视频下载"
         },
 
         {
@@ -198,7 +198,7 @@
             "appVersion": "8.0.7",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ictcmdj1e7e",
-            "appDescription": "去除广告可共存"
+            "appDescription": "去除广告,可共存"
         },
 
         {
@@ -209,7 +209,7 @@
             "appVersion": "11.3.0",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/irAC0dj19qd",
-            "appDescription": "去除广告可共存"
+            "appDescription": "去除广告,可共存"
         },
 
         {
@@ -220,7 +220,7 @@
             "appVersion": "5.38",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.jpg",
             "appPackage": "http://173.82.136.149:8787/1/zwjpai7_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.ipa",
-            "appDescription": "去除广告可共存"
+            "appDescription": "去除广告,可共存"
         },
 
         {
@@ -228,10 +228,21 @@
             "appCateIndex": 3, 
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "麻花影视",
-            "appVersion": "11.3.0",
+            "appVersion": "1.0.4",
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E9%BA%BB%E8%8A%B1%E5%BD%B1%E8%A7%86.png",
             "appPlist": "https://liujunjie680.lanzous.com/i6Meodj08af",
-            "appDescription": "去除广告可共存"
+            "appDescription": "AppStore官方正版，不可登录会闪退不影响正常使用"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "大鱼影视",
+            "appVersion": "1.4.0",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E5%A4%A7%E9%B1%BC%E5%BD%B1%E8%A7%86.png",
+            "appPlist": "https://liujunjie680.lanzous.com/imBgUdj1rrc",
+            "appDescription": "去广告,资源质量不错"
         },
 
         {
