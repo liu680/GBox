@@ -8,10 +8,11 @@
     "sourceUpdateTime": "2020-06-08T11:00:00+0800",
     "sourceDescription": "GBox私人软件源",
     "appCategories": [
-        "机场",
-        "商店",
-        "工具",
-        "娱乐"
+        "机场软件",
+        "商店应用",
+        "实用工具",
+        "音乐视频",
+        "小说漫画"
     ],
     "appRepositories": [
        {
@@ -176,11 +177,66 @@
             "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/Youtube++.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ilfYwdig8mh",
             "appDescription": "去除广告，1080P视频下载"
-        
+        },
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 3,
+            "appCateIndex": 3, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "优酷视频",
+            "appVersion": "7.6.17",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E4%BC%98%E9%85%B7.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/imljadj0wwb",
+            "appDescription": "去除广告可共存，1080P视频下载"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "腾讯视频",
+            "appVersion": "8.0.7",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/ictcmdj1e7e",
+            "appDescription": "去除广告可共存"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "爱奇艺视频",
+            "appVersion": "11.3.0",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/irAC0dj19qd",
+            "appDescription": "去除广告可共存"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "哔哩哔哩",
+            "appVersion": "5.38",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.jpg",
+            "appPackage": "http://173.82.136.149:8787/1/zwjpai7_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.ipa",
+            "appDescription": "去除广告可共存"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "麻花影视",
+            "appVersion": "11.3.0",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E9%BA%BB%E8%8A%B1%E5%BD%B1%E8%A7%86.png",
+            "appPlist": "https://liujunjie680.lanzous.com/i6Meodj08af",
+            "appDescription": "去除广告可共存"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 4,
             "appUpdateTime": "2020-06-09T17:00:00+0800",
             "appName": "石头阅读",
             "appVersion": "11.1",
