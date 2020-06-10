@@ -59,6 +59,16 @@
         },
 
         {
+            "appType": "SHAREING",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-06-09T24:00:00+0800",
+            "appName": "AppCake",
+            "appVersion": "7.0.3",
+            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/appcake%E5%95%86%E5%BA%97.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/ixEumdis5gf",
+            "appDescription": "(🎉无须签名直接安装‼️)免 AppIe ID 高速一键下载应用"
+        },
+        {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2020-06-09T23:50:00+0800",
