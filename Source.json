@@ -1,18 +1,20 @@
 {
     "version": "1.0",
-    "sourceName": "GBox私人软件源",
+    "sourceName": "凌企软件源",
     "sourceAuthor": "liujunjie680",
     "sourceLinkTitle": "联系作者",
     "sourceLinkUrl": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=2799568849&card_type=person&source=sharecard",
-    "sourceImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E6%BA%90%E5%9B%BE%E6%A0%87.jpg",
+    "sourceImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E6%BA%90%E5%9B%BE%E6%A0%87.jpg",
     "sourceUpdateTime": "2020-06-08T11:00:00+0800",
-    "sourceDescription": "GBox私人软件源",
+    "sourceDescription": "随缘更新免费分享。(资源来源于互联网，侵权联系作者删除)",
     "appCategories": [
         "机场软件",
         "商店应用",
-        "实用工具",
+        "常用软件",
         "音乐视频",
-        "小说漫画"
+        "小说漫画",
+        "实用工具",
+        "越狱工具"
     ],
     "appRepositories": [
        {
@@ -21,7 +23,7 @@
             "appUpdateTime": "2020-06-10T22:00:00+0800",
             "appName": "小火箭",
             "appVersion": "2.1.52",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/Shadowrocket.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/Shadowrocket.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/iWH36dizfja",
             "appDescription": "Shadowrocket配合机场使用‼️"
         },
@@ -32,7 +34,7 @@
             "appUpdateTime": "2020-06-10T24:00:00+0800",
             "appName": "艾克云",
             "appVersion": "1.3.1",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%89%BE%E5%85%8B%E4%BA%91.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E8%89%BE%E5%85%8B%E4%BA%91.jpg",
             "appLink": "https://www.v2aky.com/",
             "appDescription": "优质网络解决方案服务商‼️"
         },
@@ -43,7 +45,7 @@
             "appUpdateTime": "2020-06-10T23:00:00+0800",
             "appName": "边际加速",
             "appVersion": "1.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/ACROSSLINE%20HOSTING%E8%BE%B9%E9%99%85%E5%8A%A0%E9%80%9F.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/ACROSSLINE%20HOSTING%E8%BE%B9%E9%99%85%E5%8A%A0%E9%80%9F.jpg",
             "appLink": "https://www.acrosslinehosting.com/",
             "appDescription": "ACROSSLINE HOSTING边际加速新加坡边际加速主机的产品，服务，开发人员和企业可以在云服务中更轻松，更经济高效地构建，部署和扩展应用程序。"
         },
@@ -54,7 +56,7 @@
             "appUpdateTime": "2020-06-10T22:00:00+0800",
             "appName": "夏时VPN",
             "appVersion": "4.1",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E5%A4%8F%E6%97%B6VPN.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E5%A4%8F%E6%97%B6VPN.jpg",
             "appLink": "https://apps.apple.com/us/app/vpn-%E5%A4%8F%E6%97%B6vpn/id1455231677",
             "appDescription": "🎉完全免费的科学上网软件，需美区ID‼️下载使用，点击打开跳转App Store。"
         },
@@ -65,7 +67,7 @@
             "appUpdateTime": "2020-06-09T24:00:00+0800",
             "appName": "爱思助手",
             "appVersion": "2.1.7",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B.png",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B.png",
             "appPlist": "https://liujunjie680.lanzous.com/ilxr5di26wb",
             "appDescription": "(🎉无须签名直接安装‼️)免 AppIe ID 高速一键下载应用"
         },
@@ -76,74 +78,42 @@
             "appUpdateTime": "2020-06-09T24:00:00+0800",
             "appName": "AppCake",
             "appVersion": "7.0.3",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/appcake%E5%95%86%E5%BA%97.jpg",
+            "appImage": "https://gitee.com//ifadgh/gboxyuan/raw/master/appcake%E5%95%86%E5%BA%97.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ixEumdis5gf",
             "appDescription": "外国应用商店，免越狱续签IPA🎉，续签需普通证书超级证书可供安装无法续签‼️"
         },
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2020-06-09T23:50:00+0800",
-            "appName": "签名测试",
-            "appVersion": "1.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%AD%BE%E5%90%8D%E6%B5%8B%E8%AF%95.png",
-            "appPlist": "https://liujunjie680.lanzous.com/iDTHQdi1olc",
-            "appDescription": "证书测试专用"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2020-06-09T22:00:00+0800",
-            "appName": "unC0ver",
-            "appVersion": "5.2.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%B6%8A%E7%8B%B1%E5%B7%A5%E5%85%B7.png",
-            "appPlist": "https://liujunjie680.lanzous.com/ihjoIdimzkd",
-            "appDescription": "-(启用iOS 13.5.5~b1支持)\n-修复禁用自动更新时的逻辑错误\n-更新绑定的Cydia以修复启用硬件键盘的iOS 13.5上的崩溃"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2020-06-09T19:00:00+0800",
-            "appName": "X.cat",
-            "appVersion": "12.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/X.cat.jpg",
-            "appPlist": "https://liujunjie680.lanzous.com/iEdhGdi3wja",
-            "appDescription": "图片视频抓取神器"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2020-06-09T20:00:00+0800",
-            "appName": "IPA下载器",
-            "appVersion": "1.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/IPA%E4%B8%8B%E8%BD%BD%E5%99%A8.png",
-            "appPlist": "https://liujunjie680.lanzous.com/iZFRFdi2tif",
-            "appDescription": "IPA文件提取神器"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2, 
-            "appUpdateTime": "2020-06-09T18:30:00+0800",
-            "appName": "格式工厂",
-            "appVersion": "1.5",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%8E%82.jpg",
-            "appPlist": "https://liujunjie680.lanzous.com/iUYvPdig95g",
-            "appDescription": "破解专业版全功能"
-        },
-
+        
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2, 
             "appUpdateTime": "2020-06-09T18:00:00+0800",
-            "appName": "网易邮箱大师Pro",
-            "appVersion": "7.0.1",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88Pro.png",
-            "appPlist": "https://www.lanzous.com/ib7yuhe",
-            "appDescription": "商店收费软件，邮箱管理"
+            "appName": "QQ Pro(1)",
+            "appVersion": "8.1.3",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/QQ.jpg",
+            "appPackage": "http://ai.xmwvip.vip/uploads_df/20200522/e166ddcfd707d52df7884f3cd542194b.ipa",
+            "appDescription": "QQ消息防撤回，QQ秒抢红包\nQQ可修改IPone在线显示功能\n已经新增最新iPhone机型显示\nQQ位置虚拟定位，请低调使用\n入口:左上头像,左下设置,右上QQ Pro"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "QQ Pro(2)",
+            "appVersion": "8.1.3",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/QQ.jpg",
+            "appPackage": "http://ai.xmwvip.vip/uploads_df/20200522/9c8ef39914edf085dc065b105d42ed81.ipa",
+            "appDescription": "QQ消息防撤回，QQ秒抢红包\nQQ可修改IPone在线显示功能\n已经新增最新iPhone机型显示\nQQ位置虚拟定位，请低调使用\n入口:左上头像,左下设置,右上QQ Pro"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "QQ Pro(3)",
+            "appVersion": "8.1.3",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/QQ.jpg",
+            "appPackage": "http://ai.xmwvip.vip/uploads_df/20200522/cf7ca4c8cdaed8c924deeeaa78f4dbc4.ipa",
+            "appDescription": "QQ消息防撤回，QQ秒抢红包\nQQ可修改IPone在线显示功能\n已经新增最新iPhone机型显示\nQQ位置虚拟定位，请低调使用\n入口:左上头像,左下设置,右上QQ Pro"
         },
 
         {
@@ -152,7 +122,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "QQ音乐",
             "appVersion": "9.9.5",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/QQ%E9%9F%B3%E4%B9%90.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/QQ%E9%9F%B3%E4%B9%90.jpg",
             "appPackage": "https://uc.iosuc.com/music/qqyy.ipa",
             "appDescription": "QQ音乐破解版，无损解锁全功能"
         },
@@ -163,7 +133,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "网易云音乐",
             "appVersion": "5.7.2",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/iY6bldiglle",
             "appDescription": "网易云音乐破解版，解锁黑胶会员音质等"
         },
@@ -174,7 +144,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "Youtube++",
             "appVersion": "12.44.16",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/Youtube++.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/Youtube++.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ilfYwdig8mh",
             "appDescription": "去除广告，1080P视频下载"
         },
@@ -185,7 +155,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "优酷视频",
             "appVersion": "7.6.17",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E4%BC%98%E9%85%B7.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E4%BC%98%E9%85%B7.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/imljadj0wwb",
             "appDescription": "去除广告,可共存，1080P视频下载"
         },
@@ -196,7 +166,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "腾讯视频",
             "appVersion": "8.0.7",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ictcmdj1e7e",
             "appDescription": "去除广告,可共存"
         },
@@ -207,7 +177,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "爱奇艺视频",
             "appVersion": "11.3.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/irAC0dj19qd",
             "appDescription": "去除广告,可共存"
         },
@@ -218,7 +188,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "哔哩哔哩",
             "appVersion": "5.38",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.jpg",
             "appPackage": "http://173.82.136.149:8787/1/zwjpai7_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.ipa",
             "appDescription": "去除广告,可共存"
         },
@@ -229,7 +199,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "麻花影视",
             "appVersion": "1.0.4",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E9%BA%BB%E8%8A%B1%E5%BD%B1%E8%A7%86.png",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E9%BA%BB%E8%8A%B1%E5%BD%B1%E8%A7%86.png",
             "appPlist": "https://liujunjie680.lanzous.com/i6Meodj08af",
             "appDescription": "AppStore官方正版，不可登录会闪退不影响正常使用"
         },
@@ -240,7 +210,7 @@
             "appUpdateTime": "2020-06-09T18:00:00+0800",
             "appName": "大鱼影视",
             "appVersion": "1.4.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E5%A4%A7%E9%B1%BC%E5%BD%B1%E8%A7%86.png",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E5%A4%A7%E9%B1%BC%E5%BD%B1%E8%A7%86.png",
             "appPlist": "https://liujunjie680.lanzous.com/imBgUdj1rrc",
             "appDescription": "去广告,资源质量不错"
         },
@@ -251,7 +221,7 @@
             "appUpdateTime": "2020-06-09T17:00:00+0800",
             "appName": "小说阅读器",
             "appVersion": "5.7.0",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/iw1sedj298b",
             "appDescription": "可换源，无广告"
         },
@@ -262,7 +232,7 @@
             "appUpdateTime": "2020-06-09T17:00:00+0800",
             "appName": "石头阅读",
             "appVersion": "11.1",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%9F%B3%E5%A4%B4%E9%98%85%E8%AF%BB.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E7%9F%B3%E5%A4%B4%E9%98%85%E8%AF%BB.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/ipszrdi1skf",
             "appDescription": "去除所有广告"
         },
@@ -273,7 +243,7 @@
             "appUpdateTime": "2020-06-09T17:00:00+0800",
             "appName": "漫画岛",
             "appVersion": "3.6.8",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E6%BC%AB%E7%94%BB%E5%B2%9B.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E6%BC%AB%E7%94%BB%E5%B2%9B.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/illnedj33yh",
             "appDescription": "VIP版，可缓存，无法共存"
         },
@@ -284,7 +254,7 @@
             "appUpdateTime": "2020-06-09T17:00:00+0800",
             "appName": "漫客栈",
             "appVersion": "9.9.9",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E6%BC%AB%E5%AE%A2%E6%A0%88.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E6%BC%AB%E5%AE%A2%E6%A0%88.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/iTiW3dj2e8b",
             "appDescription": "解锁黑金特权，支持缓存"
         },
@@ -295,9 +265,86 @@
             "appUpdateTime": "2020-06-09T17:00:00+0800",
             "appName": "知音漫客",
             "appVersion": "3.4.8",
-            "appImage": "https://gitee.com/liu_in_the_morning/GBox/raw/master/%E7%9F%A5%E9%9F%B3%E6%BC%AB%E5%AE%A2.jpg",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E7%9F%A5%E9%9F%B3%E6%BC%AB%E5%AE%A2.jpg",
             "appPlist": "https://liujunjie680.lanzous.com/iXwWXdj351g",
             "appDescription": "VIP版，支持缓存，无法共存"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 5,
+            "appUpdateTime": "2020-06-09T23:50:00+0800",
+            "appName": "签名测试",
+            "appVersion": "1.0",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E7%AD%BE%E5%90%8D%E6%B5%8B%E8%AF%95.png",
+            "appPlist": "https://liujunjie680.lanzous.com/iDTHQdi1olc",
+            "appDescription": "证书测试专用"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 5,
+            "appUpdateTime": "2020-06-09T19:00:00+0800",
+            "appName": "X.cat",
+            "appVersion": "12.0",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/X.cat.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/iEdhGdi3wja",
+            "appDescription": "图片视频抓取神器"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 5,
+            "appUpdateTime": "2020-06-09T20:00:00+0800",
+            "appName": "IPA下载器",
+            "appVersion": "1.0",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/IPA%E4%B8%8B%E8%BD%BD%E5%99%A8.png",
+            "appPlist": "https://liujunjie680.lanzous.com/iZFRFdi2tif",
+            "appDescription": "IPA文件提取神器"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 5, 
+            "appUpdateTime": "2020-06-09T18:30:00+0800",
+            "appName": "格式工厂",
+            "appVersion": "1.5",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%8E%82.jpg",
+            "appPlist": "https://liujunjie680.lanzous.com/iUYvPdig95g",
+            "appDescription": "破解专业版全功能"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 5, 
+            "appUpdateTime": "2020-06-09T18:00:00+0800",
+            "appName": "网易邮箱大师Pro",
+            "appVersion": "7.0.1",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88Pro.png",
+            "appPlist": "https://www.lanzous.com/ib7yuhe",
+            "appDescription": "商店收费软件，邮箱管理"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 6,
+            "appUpdateTime": "2020-06-09T22:00:00+0800",
+            "appName": "Chimera",
+            "appVersion": "1.4.0",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/Chimera.png",
+            "appPlist": "https://liujunjie680.lanzous.com/imsPndjpqle",
+            "appDescription": "(内置Sileo越狱商店)\nA7 - A12设备12.1.3 - 12.2 & 12.4系统的一键越狱工具"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 6,
+            "appUpdateTime": "2020-06-09T22:00:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.2.0",
+            "appImage": "https://gitee.com/ifadgh/gboxyuan/raw/master/%E8%B6%8A%E7%8B%B1%E5%B7%A5%E5%85%B7.png",
+            "appPlist": "https://liujunjie680.lanzous.com/ihjoIdimzkd",
+            "appDescription": "(内置Cydia越狱商店)\n-(启用iOS 13.5.5~b1支持)\n-修复禁用自动更新时的逻辑错误\n-更新绑定的Cydia以修复启用硬件键盘的iOS 13.5上的崩溃"
         }
 
     ]
